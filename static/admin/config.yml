@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: kanupriya02/personal-blog
 
 media_folder: static/assets
 public_folder: assets
