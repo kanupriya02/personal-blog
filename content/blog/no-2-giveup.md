@@ -1,7 +1,7 @@
 ---
-path: /yaymynewblog
+path: /mylove
 date: 2019-10-05T07:05:49.502Z
-title: No 2 giveup
+title: thanks to my love
 description: my first blog
 ---
-Yay My first blog
+my love
